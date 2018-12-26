@@ -1,0 +1,924 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"c",
+				"col-sm-12"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"st",
+				"stepProgressTable"
+			],
+			[
+				"hide",
+				"hideTable3"
+			],
+			[
+				"prot",
+				"protocolProgressTable"
+			],
+			[
+				"tagProg",
+				"tagProgressTable"
+			],
+			[
+				"bo",
+				"border-color\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"step",
+				"stepTableBody"
+			],
+			[
+				"stepProgre",
+				"stepProgressTable"
+			],
+			[
+				"col-",
+				"col-md-12"
+			],
+			[
+				"collaps",
+				"collapseTable"
+			],
+			[
+				"data",
+				"datasets"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"tool",
+				"tool-tip"
+			],
+			[
+				"collapse",
+				"collapseProfile"
+			],
+			[
+				"pu",
+				"pull-right"
+			],
+			[
+				"form",
+				"form-group"
+			],
+			[
+				"bacl",
+				"background-color\tproperty"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"co",
+				"col-sm"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"fa",
+				"fa-trash-alt"
+			],
+			[
+				"fas",
+				"fa-window-close"
+			],
+			[
+				"fa-",
+				"fa-window-close"
+			],
+			[
+				"modal",
+				"modal-lg"
+			],
+			[
+				"location",
+				"locationTable"
+			],
+			[
+				"last",
+				"lastuser"
+			],
+			[
+				"xl",
+				"xlsx"
+			],
+			[
+				"file",
+				"file-upload"
+			],
+			[
+				"protocol",
+				"protocolfile"
+			],
+			[
+				"users",
+				"users2"
+			],
+			[
+				"login",
+				"login-page"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"option",
+				"option1"
+			],
+			[
+				"fa-trash",
+				"fa-trash-alt"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"card-t",
+				"card-title"
+			],
+			[
+				"card",
+				"card-title"
+			],
+			[
+				"User",
+				"UserManager"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"btn-",
+				"btn-md"
+			],
+			[
+				"col-sm",
+				"col-sm-10"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"text-",
+				"text-light"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"cont",
+				"container-fluid"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"sub",
+				"submit-button"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"intp",
+				"input-field"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"border-co",
+				"border-color\tproperty"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"min-",
+				"min-height\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"border-top-",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"user",
+				"userClosedQuery"
+			],
+			[
+				"check",
+				"checkDatabaseQuery"
+			],
+			[
+				"pro",
+				"profilePic"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"err",
+				"errorArray"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"firs",
+				"firstName"
+			],
+			[
+				"email",
+				"email2"
+			],
+			[
+				"strip",
+				"strip_tags"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"p",
+				"hashedPwdCheck"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"incl",
+				"include_once"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"he",
+				"header-height"
+			],
+			[
+				"header",
+				"header-bg"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"grey",
+				"grey-text"
+			],
+			[
+				"L",
+				"latLng"
+			],
+			[
+				"map",
+				"mapOptions"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mat",
+				"material-icons"
+			],
+			[
+				"mate",
+				"Materialize"
+			],
+			[
+				"white",
+				"white-text"
+			],
+			[
+				"blue",
+				"blue-grey"
+			],
+			[
+				"M",
+				"Materialize"
+			],
+			[
+				"Mater",
+				"materialize"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"deep",
+				"deep-purple"
+			],
+			[
+				"carou",
+				"carousel"
+			],
+			[
+				"material",
+				"material-icons"
+			],
+			[
+				"mater",
+				"material-icons"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"open",
+				"opennow"
+			],
+			[
+				"result",
+				"resultArray"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"las",
+				"lastName"
+			],
+			[
+				"down",
+				"download-cv"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"single",
+				"single-item"
+			],
+			[
+				"sin",
+				"single-item"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"over",
+				"overflow-wrap"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bc",
+				"background-color"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 262.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv000a7a/Bv000a7a/listRooms.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv000a7a/Bv000b58/listDevices.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv000a7a/Bv000d83/showProtocol.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv0021bb/Bv003c8c/main.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv0021bb/Bv006cc0/listUsers.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv0021bb/Bv00658b/listRooms.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv0021bb/Bv006533/listClients.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv0021bb/Bv000eac/graphGoals.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv0021bb/Bv00726c/graphGoals.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv0021bb/Bv00773d/buttons.bootstrap4.css",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv0021bb/Bv007343/print.css",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv0041d6/Bv00003c/custom.css",
+		"/C/Users/Annihilare/Desktop/creative/startbootstrap-creative-gh-pages/package.json",
+		"/C/xampp/htdocs/lsapp/resources/views/pages/index.blade.php",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv00229e/Bv00229e/index.html",
+		"/C/xampp/htdocs/lsapp/resources/views/posts/index.blade.php",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv007f0b/Bv002ab7/listRooms.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv007f0b/Bv004643/roomReport.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv007f0b/Bv007fdf/index.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv007f0b/Bv002da7/weeklyGoalReportByRoom.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv000a27/Bv002837/index.html",
+		"/C/Users/Annihilare/Desktop/bubbly/tables.html",
+		"/C/Users/Annihilare/Desktop/Table_Fixed_Header/index.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv000a27/Bv001fa2/main.html",
+		"/C/Users/Annihilare/Desktop/Table_Fixed_Header/vendor/bootstrap/css/bootstrap.css",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv00580f/Bv002468/reportDatesAllClients.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv00580f/Bv001720/roomReport.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv00580f/Bv00580f/progressReport.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv00580f/Bv002307/roomCleaningReportsAllClients.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv00580f/Bv0072dc/listRooms.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/Temp1_yii-master (2).zip/yii-master/demos/hangman/index.php",
+		"/C/xampp/htdocs/myListApp/pages/welcome.php",
+		"/C/xampp/htdocs/myListApp/pages/register.php",
+		"/C/xampp/htdocs/myListApp/pages/edit_task.php",
+		"/C/xampp/htdocs/myListApp/css/custom.css",
+		"/C/xampp/htdocs/myListApp/index.php",
+		"/C/xampp/htdocs/myListApp/css/bootstrap.css",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv007038/Bv007b94/listAllProtocols.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv007038/Bv007aac/progressReport.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv007038/Bv007b0e/listProtocols.html",
+		"/C/xampp/htdocs/myListApp/pages/list.php",
+		"/C/xampp/htdocs/myListApp/pages/task.php",
+		"/C/xampp/htdocs/myListApp/pages/edit_list.php",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv007038/Bv005715/index.html",
+		"/C/xampp/htdocs/myListApp/pages/new_task.php",
+		"/C/xampp/htdocs/myListApp/pages/new_list.php",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv007038/Bv0053dc/graphProgressReport.html",
+		"/C/xampp/htdocs/myListApp/js/site.js",
+		"/C/xampp/htdocs/myListApp/pages/delete_list.php",
+		"/C/xampp/htdocs/myListApp/classes/database.php",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv007038/Bv007038/listRooms.html",
+		"/C/xampp/htdocs/myListApp/config.php",
+		"/C/Users/Annihilare/Desktop/resource-myTasksProjectPart1/Program Files/index.php",
+		"/C/xampp/htdocs/phpPractice/connect/connect.php",
+		"/C/xampp/htdocs/PDO/index.php",
+		"/C/xampp/htdocs/phpPractice/connect/index.php",
+		"/C/Users/Annihilare/Desktop/Test/MyApp/www/index.html",
+		"/C/xampp/htdocs/socialApp/register.php",
+		"/C/xampp/htdocs/phpPractice/index.php",
+		"/C/xampp/htdocs/phpPractice/connect/process.php",
+		"/C/xampp/htdocs/phpPractice/connect/includes/database.php",
+		"/C/xampp/htdocs/phpPractice/connect/includes/process.php",
+		"/C/xampp/htdocs/JSONdemo/JSON/movies.json",
+		"/C/xampp/htdocs/JSONdemo/index.html",
+		"/C/xampp/htdocs/rawLoginSystem/includes/dbh.inc.php",
+		"/C/xampp/htdocs/rawLoginSystem/profile.php",
+		"/C/xampp/htdocs/rawLoginSystem/includes/login.inc.php",
+		"/C/xampp/htdocs/phpPractice/addEmployee/database.php",
+		"/C/xampp/htdocs/phpPractice/addEmployee/index.php",
+		"/C/xampp/htdocs/phpPractice/addEmployee/process.php",
+		"/C/xampp/htdocs/phpPractice/connect.php",
+		"/C/xampp/htdocs/connect.php",
+		"/C/xampp/htdocs/rawLoginSystem/includes/signup.inc.php",
+		"/C/xampp/htdocs/rawLoginSystem/signup.php",
+		"/C/xampp/htdocs/JSONdemo/movies.json",
+		"/C/Users/Annihilare/AppData/Local/Temp/Temp1_resource-MovieSelectProject (1).zip/resource-MovieSelectProject/Program Files/movies.json",
+		"/C/xampp/htdocs/phpPractice/phpNotes.txt",
+		"/C/Users/Annihilare/Desktop/movies.js",
+		"/C/Users/Annihilare/Desktop/playhouse.html",
+		"/C/Users/Annihilare/Desktop/resource-MovieSelectProject/Program Files/index.html",
+		"/C/Users/Annihilare/Desktop/resource-MovieSelectProject/Program Files/movies.json",
+		"/C/xampp/htdocs/AnniList Website/annilist/mail/contact_me.php",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv0069bc/Bv0069d9/listRooms.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv0069bc/Bv007b39/listAllProtocols.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv0069bc/Bv0078a5/listUsers.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv0069bc/Bv007d05/listRoomTypes.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv0069bc/Bv007604/progressReport.html",
+		"/C/Users/Annihilare/Desktop/AnniList Website/annilist/faq.html",
+		"/C/Users/Annihilare/Desktop/AnniList Website/annilist/contact.html",
+		"/C/Users/Annihilare/Desktop/AnniList Website/annilist/pricing.html",
+		"/C/Users/Annihilare/Desktop/AnniList Website/annilist/about.html",
+		"/C/Users/Annihilare/Desktop/AnniList Website/annilist/index.html",
+		"/C/Users/Annihilare/Desktop/AnniList Website/annilist/services.html",
+		"/C/Users/Annihilare/Desktop/AnniList Website/annilist/js/contact_me.js",
+		"/C/Users/Annihilare/Desktop/AnniList Website/annilist/js/jqBootstrapValidation.js",
+		"/C/Users/Annihilare/Desktop/AnniList Website/css/carousel.css",
+		"/C/Users/Annihilare/Desktop/AnniList Website/js/custom.js",
+		"/C/Users/Annihilare/Desktop/AnniList Website/index.html",
+		"/C/Users/Annihilare/Desktop/AnniList Website/js/holder.min.js",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv00310c/Bv00415d/index.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv005130/Bv005130/index.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv00310c/Bv00310c/main.html",
+		"/C/Users/Annihilare/Desktop/index.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv005554/Bv0055fb/progressReport.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv005554/Bv005554/progressReportChart.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv004716/Bv00734b/roomCleaningReportsAllClients.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv004716/Bv00757d/userReportAllClients.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv004716/Bv007c67/roomCleaningReportsOneLocation.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv004716/Bv007adf/roomCleaningReportsOneClient.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv004716/Bv00773c/userReportOneLocation.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv004716/Bv001998/listRooms.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv004716/Bv0031b4/roomCleaningReportsOneClient.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv004716/Bv003db1/progressReportDates.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv004716/Bv00186f/userReportOneClient.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv004716/Bv004716/main.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv004716/Bv004744/progressReport.html",
+		"/C/Users/Annihilare/Desktop/test.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv004716/Bv007d12/index.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv000e73/Bv0045d0/main.html",
+		"/C/Users/Annihilare/Desktop/jquery.highcharts.min.js",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv000e73/Bv000220/listRooms.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv000e73/Bv00551c/progressReport.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv000e73/Bv007796/tutorials.html",
+		"/C/Users/Annihilare/Desktop/HTML-Table-Based-Column-Chart-Plugin-For-jQuery-graph-js/index.html",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv000e73/Bv006477/chartStyle.css",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv000e73/Bv0044b7/styles.css",
+		"/C/Users/Annihilare/AppData/Local/Temp/BvSshSftp/Bv000e73/Bv004526/chartStyle.css",
+		"/C/Users/Annihilare/Desktop/HTML-Table-Based-Column-Chart-Plugin-For-jQuery-graph-js/css/style.css"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"trial version",
+			"trial",
+			"chart",
+			"chart.js",
+			"chart.j",
+			"chart.js",
+			"chart",
+			".side-navbar.shrink ul li a[data-toggle=\"collapse\"][aria-expanded=\"true\"]::before",
+			".shrink",
+			">\n",
+			"device",
+			".btn",
+			"btn active",
+			"active",
+			"btn active",
+			"btn",
+			"index",
+			"card index",
+			"cardindex",
+			"card-index",
+			".card-index",
+			".card",
+			"card",
+			"@media",
+			"media",
+			"card",
+			"a[aria-expanded=\"true\"]::before {",
+			"a[aria-expanded=\"true\"]::before {\n    content: '\\f107';\n    color: #fff;",
+			"html",
+			"validator",
+			"toggle",
+			"#toggle",
+			"#toggle-btn",
+			".toggle-btn",
+			"toggle-btn",
+			"toggle-button",
+			"roboto",
+			"#usersTable",
+			"btn",
+			"button",
+			".btn",
+			"btn",
+			"card",
+			".side-navbar.shrink ul li a[data-toggle=\"collapse\"]",
+			"table",
+			"button",
+			"btn-primary",
+			"primary",
+			"btn",
+			"@media",
+			"@",
+			"section-padding",
+			"@media (max-width: 1199px",
+			"@media (max-width: 1199px)\n.side-navbar",
+			"@media (max-width: 1199px)\n.side-navbar ",
+			".side-navbar li a[data-toggle=\"collapse\"]",
+			"nav",
+			"#28",
+			"#28090",
+			".btn-group",
+			".btn-group:focus",
+			".btn-group:active",
+			".btn-group",
+			"btn-group",
+			"sm-12 col-md-6 col-lg-3\"\">\n\t\t<label class=\"pull-left\" fo",
+			"primary",
+			"form-group",
+			"form",
+			".form",
+			"form",
+			"form-control",
+			".container",
+			"container",
+			".container",
+			".btn",
+			"btn",
+			"btn\t",
+			";\">",
+			"nav",
+			"side",
+			"side-nav",
+			"sidenav",
+			"navbar ",
+			"top",
+			".top .nav .li .a",
+			"top .nav .li .a",
+			"brand",
+			"top-nav",
+			"dropdown\n",
+			";\n",
+			"dropdown\n",
+			"side\n",
+			"nav\n",
+			"side\n",
+			"side-nav\n",
+			">\n",
+			"a",
+			"top-nav",
+			"navbar-right top-nav",
+			"nav navbar-right",
+			"nav navbar-right top-nav",
+			"nav navbar-right top-na",
+			"navbar top",
+			"nav top",
+			"top",
+			"nav navbar-right top-nav hover",
+			"nav navbar-right top-nav",
+			"#{doLayout /}",
+			"}\n",
+			"modal",
+			";\n",
+			"50",
+			"a",
+			"></"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
